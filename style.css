@@ -1,0 +1,250 @@
+
+
+.container {
+
+
+/*	border: solid 2px black;
+*/
+	background-color: #C0C0C0;
+
+	border-radius: 10px;
+	margin: 0 auto;
+	text-align: center;
+
+
+}
+
+.fa-prescription {
+
+	font-size: 100px;
+}
+
+
+.fa-user-md{
+
+	font-size: 100px;
+}
+
+.fa-info{
+
+	font-size: 100px;
+}
+
+.fa-chart-line{
+
+	font-size: 100px;
+}
+
+#ahis{
+	font-size: 100px;
+	color: white;
+}
+
+#ahisFull{
+
+	color: #66ff66;
+	display: none;
+	
+}
+
+.fa-id-card-alt{
+
+	font-size: 100px;
+}
+
+.ul{
+	float: left;
+}
+
+.mission{
+	float: left;
+
+}
+
+.menuControls{
+
+	background-color: #0074D9;
+	padding-left: 20px;
+	text-align: left;
+/*	border: 2px solid green;
+*/	
+
+
+}
+.col-4{
+	width: 50px;
+}
+
+.leftBox{
+	width: 220px;
+	height: 20px;
+	display: inline;
+
+
+}
+
+.btn-secondary{
+	width: auto;
+	height: 120px;
+	margin: 10px;
+	background-color: #001f3f;
+	/*border-radius: 10px;*/
+}
+
+.modifiedBar{
+	width: auto;
+	
+}
+
+.controls{
+	text-align: center;
+}
+
+.resultsT{
+	text-align: center;
+	width: 800px;
+	margin-bottom: 50px;
+
+}
+
+.prescription
+
+{
+
+	width: 920px;
+
+	height: 1000px;
+
+/*	border: solid black 2px;
+*/
+	margin: 0 auto;
+
+}
+
+#infoBox{
+	float: left;
+	height: auto;
+/*	width: 280px;
+*//*	background-color: green;
+*/	padding: 5px;
+	margin: 10px;
+	text-align: left;
+}
+
+#pharmacyInfo{
+	height: auto;
+/*	width: 280px;
+*//*	background-color: green;
+*/	padding: 5px;
+	margin: 10px;
+	text-align: left;
+}
+
+
+#patientInfo{
+	float: left;
+	height: auto;
+/*	width: 280px;
+*//*	background-color: green;
+*/	padding: 5px;
+	margin: 10px;
+	text-align: left;
+}
+
+#IdAndDate{
+
+	margin: 0 auto;
+	margin: 20px;
+	height: 60px;
+	background-color: white;
+	text-align: center;
+
+}
+
+.ctr{
+	width: 920px;
+	height: auto;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#middle
+{
+	text-align: center;
+}
+
+
+#phPersonel{
+	height: 100px;
+	width: 200px;
+/*	border: solid black 2px;
+*/	text-align: left;
+	margin: 10px;
+	float: left;
+
+
+}
+
+#client
+{
+	height: 100px;
+	width: 200px;
+/*	border: solid black 2px;
+*/	margin: 10px;
+	display: block;
+	float: left;
+}
+
+#precControls
+{
+
+	width: 920px;
+	height: auto;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	float: right;
+
+
+}
+
+#drugInfo
+{
+	width: 920px;
+	text-align: center;
+	margin-top: 400px;
+	height: auto;
+	margin-bottom: 5px;
+	
+}
+
+#instructions{
+	width: 800px;
+	height: 60px;
+	margin-bottom: 10px;
+
+}
+
+.containerLog{
+
+	background-image: url(../media/loginBg1.jpg);
+
+	width: 2000px;
+	height: 1000px; 
+	margin: 0 auto;
+	text-align: center;
+}
+
+.wrapper{
+	float: right;
+	margin-top: 250px;
+	margin-right: 80px;
+
+}
+
+#parties{
+	width: 1000px;
+	text-align: center;
+	background-color: red;
+}
+
